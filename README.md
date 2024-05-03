@@ -7,7 +7,7 @@ class profile:
               
       information = "Full-Stack Developer Student";
         "System and Analyst Development";
-        "Python, HTML, CSS, C, C++, C#"
+        "Python, HTML, CSS, JavaScript"
 
 
           
